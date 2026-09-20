@@ -17,8 +17,11 @@ SAFETY
 The script will create subdirectories in the same directory the script was run:
 
 backup/ contains untouched copies of both supplied input files.
+
 processing/ contains the working copies used for analysis.
+
 output/RPSports.dat is the patched file intended for installation.
+
 The original paths supplied to the script are never modified.
 
 How it works
